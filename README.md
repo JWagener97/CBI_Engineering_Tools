@@ -29,3 +29,31 @@ We welcome contributions from the community to enhance the functionality and usa
 This project is licensed under the [MIT License](LICENSE), which allows you to use, modify, and distribute the code freely. Please see the license file for more information.
 
 We hope that these engineering tools empower you in effectively monitoring MQTT devices and facilitate the smooth operation of your connected systems. Enjoy exploring and utilizing this powerful toolset!
+
+## File Structure
+
+```
+.
+├── dash-app
+│ └── assets # this folder contains style files
+│ │ ├── style.py
+│ │ └── typography.css
+│ ├── components # this folder contains reusable components
+│ │ ├── dropdown.py
+│ │ └── navbar.py
+│ ├── environment # this folder contains environment settings
+│ │ ├── .env
+│ │ ├── .env_development
+│ │ └── settings.py
+│ ├── pages # this folder contains the pages
+│ ├── plots # this folder contains different plots
+│ ├── app.py
+│ ├── index.py
+│ └── requirements.txt
+├── Datasheets
+│ └── MTB # this folder contains the MTB Datasheet
+```
+
+## Install the required packages
+
+$ pip install -r requirements.txt
