@@ -22,7 +22,7 @@ body {
 }
 
 .Select--multi .Select-value {
-  background-color: green;
+  background-color: black;
   border-color: #e3a700;
   color: orange;
 }
@@ -35,12 +35,12 @@ body {
 }
 
 .VirtualizedSelectOption {
-  background-color: LightGreen;
+  background-color: black;
   color: black;
 }
 
 .VirtualizedSelectFocusedOption {
-  background-color: green;
+  background-color: #03dac6;
   font-size: 18px;
   color: white;
 }

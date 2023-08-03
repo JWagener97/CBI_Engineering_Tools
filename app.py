@@ -159,28 +159,28 @@ app.layout = html.Div(
                                 {
                                     "label": html.Span(
                                         ["45"],
-                                        style={"color": "#BB86FC", "font-size": 20},
+                                        style={"color": "white", "font-size": 20},
                                     ),
                                     "value": "45",
                                 },
                                 {
                                     "label": html.Span(
                                         ["UAT"],
-                                        style={"color": "#3700B3", "font-size": 20},
+                                        style={"color": "white", "font-size": 20},
                                     ),
                                     "value": "UAT",
                                 },
                                 {
                                     "label": html.Span(
                                         ["Production"],
-                                        style={"color": "#BB86FC", "font-size": 20},
+                                        style={"color": "white", "font-size": 20},
                                     ),
                                     "value": "Production",
                                 },
                                 {
                                     "label": html.Span(
                                         ["Custom"],
-                                        style={"color": "#3700B3", "font-size": 20},
+                                        style={"color": "white", "font-size": 20},
                                     ),
                                     "value": "Custom",
                                 },
@@ -219,14 +219,14 @@ app.layout = html.Div(
                         {
                             "label": html.Span(
                                 ["Status"],
-                                style={"color": "#BB86FC", "font-size": 20},
+                                style={"color": "white", "font-size": 20},
                             ),
                             "value": "Status",
                         },
                         {
                             "label": html.Span(
                                 ["Telemetry"],
-                                style={"color": "#3700B3", "font-size": 20},
+                                style={"color": "white", "font-size": 20},
                             ),
                             "value": "Telemetry",
                         },
