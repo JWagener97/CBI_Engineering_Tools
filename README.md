@@ -17,9 +17,12 @@ Monitoring MQTT devices is essential for maintaining the integrity and performan
 
 ## Feature Roadmap
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] Connect to different brokers UAT/45/Production
+- [ ] Multidevice monitoring dashboard for Real-time Data Visualization
+- [ ] Add filters to data-table
+- [ ] Slip App into multipage dash application
+- [ ] Data logging
+- [ ] User Authentication
 
 ## Installation
 
