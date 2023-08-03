@@ -54,10 +54,10 @@ We hope that these engineering tools empower you in effectively monitoring MQTT 
 ```
 .
 ├── dash-app
-│ └── assets # this folder contains style files
-│ │ └── header.css
-│ ├── app.py
-│ ├── test.py
+│ └── assets            # This folder contains style files
+│ │ └── header.css      #
+│ ├── app.py            # Main application file .py
+│ ├── test.py #Test     # Test file used foe experiments
 │ ├── README.md
 │ └── requirements.txt
 ```
