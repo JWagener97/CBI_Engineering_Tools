@@ -23,6 +23,9 @@ Monitoring MQTT devices is essential for maintaining the integrity and performan
 - [ ] Slip App into multipage dash application
 - [ ] Data logging
 - [ ] User Authentication
+- [ ] Update the requirements.txt
+- [ ] Compile into single .exe
+- [ ] Split functions for correct dash enterprise deployment
 
 ## Installation
 
